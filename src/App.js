@@ -283,7 +283,7 @@ export default function App() {
             }}
           >
             <h2 className="booksHead">{work.name}</h2>
-            <img src={work.imgUrl} />
+            <img src={work.imgUrl} alt="work data url" />
             <div className="detailed">{work.details}</div>
             <div className="description">{work.description}</div>
           </div>
