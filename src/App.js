@@ -241,7 +241,7 @@ export default function App() {
       <ul className="heading">
         <div>
           <h2>
-            <a style={{ color: "white", textDecoration: "none" }}>
+            <a href="!#" style={{ color: "white", textDecoration: "none" }}>
               The Universe of Zombies👻
             </a>
           </h2>
